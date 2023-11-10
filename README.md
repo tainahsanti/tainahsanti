@@ -1,9 +1,8 @@
 <h1 align="center">Olá! Sou a Tainah Santi 😊</h1>
 
 
-  - 🌱 Atualmente estou aprendendo HTML e CSS.
-  - 💻 Meu objetivo é me tornar desenvolvedora front-end.
-
+  - 🌱 
+  - 💻 
 ##
 
 ![Tainah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TainahSanti&show_icons=true&theme=radical)
