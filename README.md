@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou a Tainah Santi 😊</h1>
+<h1 align="center">Olá! Sou a Tainah Santi</h1>
 
 
   - 🌱 
